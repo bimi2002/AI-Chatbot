@@ -3,7 +3,7 @@ import requests
 import re
 from PIL import Image  # For handling images
 
-API_KEY = "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"
+API_KEY = "contact mazrekajshkumbim@gmail.com for the key"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 bot_icon="bot.png"
 
